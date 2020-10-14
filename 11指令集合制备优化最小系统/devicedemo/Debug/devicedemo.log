@@ -1,0 +1,14 @@
+﻿  usbSDKdemo.cpp
+c:\users\nk\desktop\复合手势指令制备优化最小系统\devicedemo\usbsdkdemo.cpp(122): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\nk\desktop\复合手势指令制备优化最小系统\devicedemo\usbsdkdemo.cpp(130): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\nk\desktop\复合手势指令制备优化最小系统\devicedemo\usbsdkdemo.cpp(152): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\nk\desktop\复合手势指令制备优化最小系统\devicedemo\usbsdkdemo.cpp(160): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\nk\desktop\复合手势指令制备优化最小系统\devicedemo\usbsdkdemo.cpp(266): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\nk\desktop\复合手势指令制备优化最小系统\devicedemo\usbsdkdemo.cpp(270): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\nk\desktop\复合手势指令制备优化最小系统\devicedemo\usbsdkdemo.cpp(364): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\nk\desktop\复合手势指令制备优化最小系统\devicedemo\usbsdkdemo.cpp(606): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\nk\desktop\复合手势指令制备优化最小系统\devicedemo\usbsdkdemo.cpp(637): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\nk\desktop\复合手势指令制备优化最小系统\devicedemo\usbsdkdemo.cpp(670): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\nk\desktop\复合手势指令制备优化最小系统\devicedemo\usbsdkdemo.cpp(795): warning C4018: “<”: 有符号/无符号不匹配
+  devicedemo.vcxproj -> C:\Users\nk\Desktop\复合手势指令制备优化最小系统\Debug\devicedemo.exe
+  devicedemo.vcxproj -> C:\Users\nk\Desktop\复合手势指令制备优化最小系统\Debug\devicedemo.pdb (Full PDB)
